@@ -1,2 +1,1 @@
-# AdsteRig
-An adsterra miner for all
+![](image.png)
